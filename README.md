@@ -9,12 +9,12 @@
          <img src="https://img.shields.io/badge/Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_hyobi/"/>
     </a>
     <a href="mailto:limhb0909@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=limhb0909@gmail.com"/>
+        <img src="https://img.shields.io/badge/Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=limhb0909@gmail.com"/>
     </a>
 </p>
 
 ### Languages
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)]
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)]
