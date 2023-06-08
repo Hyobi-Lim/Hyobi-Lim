@@ -5,11 +5,11 @@
         I'm Hyobi.<br>
         Currently I'm learning front-end developing in Sejong university.<br>
     </i><br>
-    <a>
-        <img src="https://img.shields.io/badge/gmail-orange?style=flat-square&logo=orange" alt="gmail"> 
+     <a href="https://www.instagram.com/im_hyobi/">
+         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_hyobi/"/>
     </a>
-    <a href="https://instagram.com/im_hyobi?igshid=MjEwN2IyYWYwYw==">
-        <img src="https://img.shields.io/badge/Instagram-orange?style=flat-square&logo=orange" alt="Instagram"> 
+    <a href="mailto:limhb0909@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=limhb0909@gmail.com"/>
     </a>
 </p>
 
@@ -36,6 +36,7 @@
   <a href="https://github.com/Hyobi-Lim">
     <img src="https://komarev.com/ghpvc/?username=wervlad&color=orange&style=flat)" />
   </a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyobi-Lim&count_bg=%23FA6699&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 <!--
