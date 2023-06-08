@@ -14,23 +14,23 @@
 </p>
 
 ### Languages
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)]
-[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)]
+![C](https://img.shields.io/badge/c-white?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)
 
 ### ML/DL
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)]
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)]
+![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)
 
 ### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
 <p align="center">
   <a href="https://github.com/Hyobi-Lim">
