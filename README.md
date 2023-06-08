@@ -32,12 +32,6 @@
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
-<p align="center">
-  <a href="https://github.com/Hyobi-Lim">
-    <img src="https://komarev.com/ghpvc/?username=Hyobi-Lim&color=orange&style=flat)" />
-  </a>
-</p>
-
 <!--
 **Hyobi-Lim/Hyobi-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
