@@ -20,17 +20,15 @@
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)
 
-### ML/DL
-![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)
+### Tools
+[![Git](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/wervlad)
 
-### Technologies & Frameworks
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+### Frameworks
+![React JS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+
+### Technologies
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-
-### OS
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
 <!--
 **Hyobi-Lim/Hyobi-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
