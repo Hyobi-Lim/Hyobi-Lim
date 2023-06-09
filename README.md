@@ -22,6 +22,7 @@
 
 ### Tools
 [![Git](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/wervlad)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
 ### Frameworks
 ![React JS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
