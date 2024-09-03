@@ -5,9 +5,6 @@
         I'm Hyobi.<br>
         Currently I'm learning front-end developing in Sejong university.<br>
     </i><br>
-     <a href="https://www.instagram.com/im_hyobi/">
-         <img src="https://img.shields.io/badge/Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_hyobi/"/>
-    </a>
     <a href="mailto:limhb0909@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=limhb0909@gmail.com"/>
     </a>
