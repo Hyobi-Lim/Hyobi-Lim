@@ -1,4 +1,4 @@
-<h1 align="center">Hi, welcome to my page! <img  src=\" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, welcome to my page!👋</h1>
 
 <p align="center">
     <i>
