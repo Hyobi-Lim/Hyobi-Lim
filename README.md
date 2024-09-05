@@ -3,7 +3,8 @@
 <p align="center">
     <i>
         I'm Hyobi.<br>
-        Currently I'm learning front-end developing in Sejong university.<br>
+        I graduated from Sejong University.<br>
+        Currently I'm learning front-end developing.<br>
     </i><br>
     <a href="mailto:limhb0909@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=limhb0909@gmail.com"/>
