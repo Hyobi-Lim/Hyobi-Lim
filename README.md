@@ -12,17 +12,18 @@
 </p>
 
 ### Languages
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)
 
 ### Tools
 [![Git](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/wervlad)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)
 
-### Frameworks
+### Library
 ![React JS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 
 ### Technologies
