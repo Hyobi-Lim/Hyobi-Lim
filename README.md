@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyobi%20Lim&fontAlign=80&fontAlignY=40&color=gradient&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyobi%20Lim&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
 
 <p align="center">
     <i>
