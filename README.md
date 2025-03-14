@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hyobi%20Lim&fontSize=90)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyobi%20Lim&fontAlign=80&fontAlignY=40&color=gradient&section=header)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyobi%20Lim&fontAlign=80&fontAlignY=40&color=gradient)
 
 <p align="center">
     <i>
