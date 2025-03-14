@@ -1,10 +1,10 @@
-<h1 align="center">Hi, welcome to my page!👋</h1>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Welcome to hyobi's Github!!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 <p align="center">
     <i>
         I'm Hyobi.<br>
         I graduated from Sejong University.<br>
-        Currently I'm learning front-end developing.<br>
+        Currently I'm learning frontend developing.<br>
     </i><br>
     <a href="mailto:limhb0909@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=limhb0909@gmail.com"/>
