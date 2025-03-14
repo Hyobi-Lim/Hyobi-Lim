@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyobi%20Lim&fontAlign=80&fontAlignY=40&color=gradient&section=header)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyobi%20Lim&fontAlign=80&fontAlignY=40&color=gradient)
 
 <p align="center">
     <i>
+        Hi, welcome to my github.<br>
         I'm Hyobi.<br>
         I graduated from Sejong University.<br>
         Currently I'm learning frontend developing.<br>
