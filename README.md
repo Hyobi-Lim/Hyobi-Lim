@@ -8,7 +8,7 @@
         I'm Hyobi.<br>
         I graduated from Sejong University.<br>
         Currently I'm learning frontend developing.<br>
-    </i>
+    </i><br>
 </p>
     
 ## 🔨 Languages & Tools 🔨
