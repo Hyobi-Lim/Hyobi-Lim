@@ -17,6 +17,8 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white"/>
 
 ### Library
 ![React JS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
