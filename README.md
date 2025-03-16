@@ -4,7 +4,7 @@
 
 <p align="center">
     <i>
-        Hi, welcome to my github.<br>
+        Hi👋, welcome to my github.<br>
         I'm Hyobi.<br>
         I graduated from Sejong University.<br>
         Currently I'm learning frontend developing.<br>
