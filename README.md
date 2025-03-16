@@ -13,20 +13,16 @@
 </p>
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white"/>
 
 ### Library
-![React JS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 ### Tools
-[![Git](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/wervlad)
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
-![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/>
 
 <!--
 **Hyobi-Lim/Hyobi-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
