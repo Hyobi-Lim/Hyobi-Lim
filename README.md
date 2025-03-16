@@ -16,9 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 
 ### Library
 ![React JS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
