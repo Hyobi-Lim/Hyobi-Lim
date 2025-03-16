@@ -8,10 +8,7 @@
         I'm Hyobi.<br>
         I graduated from Sejong University.<br>
         Currently I'm learning frontend developing.<br>
-    </i><br>
-    <a href="mailto:limhb0909@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=limhb0909@gmail.com"/>
-    </a>
+    </i>
 </p>
     
 ## 🔨 Languages & Tools 🔨
